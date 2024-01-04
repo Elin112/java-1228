@@ -1,0 +1,15 @@
+package b_Chapter01;
+
+// 자바 형 변환 (타입 변환)
+// : 하나의 타입을 다른 타입으로 바꾸는 것
+
+// 자료형의 크기에 따른 형 변환 규칙
+// byte(1) < short
+public class C_TypeConversion {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
